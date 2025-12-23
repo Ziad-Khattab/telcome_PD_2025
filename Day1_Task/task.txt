@@ -1,0 +1,6 @@
+=======> clone my repo  and write your name on file names.txt
+===> upload any project or task (html,css) [on repo on your git hub]and use git hub pages
+----------> on your repo add README.md file 
+----------> on your repo add .gitignore
+
+---------> self study handel ssh Key
