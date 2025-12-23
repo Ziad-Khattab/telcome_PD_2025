@@ -79,6 +79,8 @@ git push origin master
 
 ==========================>
 gitHub Pages : git hub ==> as server
+--------> repo public
+--------> index (same path of .git )
 
 
 --------------------------------
