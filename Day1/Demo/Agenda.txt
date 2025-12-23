@@ -61,7 +61,16 @@ git push origin master
 ---> libraries
 --> server 
 
+==============================================>
+collaborators : add peoples on your repo as team  [ setting - collaborators] 
+==============================================>
+clone :  copy repo ---> create any folder --> git bash ==> git clone linkRepo [https://github.com/ayaatadel/telcome_PD_2025.git]
+====> Acces on Repo ----> added as collaborator 
 
+-----------------> changes 
+git add .
+git commit -m "msg"
+--------> git push origin master *********************
 
 
 --------------------------------
