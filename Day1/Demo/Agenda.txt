@@ -1,0 +1,12 @@
+=========> Agenda 
+-- histoy of git 
+-- installion
+-- commands 
+
+--------------------------- Commands 
+-- initalize git : git init 
+-- add file (change on file ) : git add fileName  
+                              :  git add fileName1 fileName2  
+--add all files (all changes all files)      :  git add  .
+
+-- commit changes (create version)  : git commit -m "MSG"

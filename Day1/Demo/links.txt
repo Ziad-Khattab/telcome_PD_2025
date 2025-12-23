@@ -1,0 +1,9 @@
+installation :
+win : https://git-scm.com/install/windows
+mac : https://git-scm.com/install/mac
+Linux :  https://git-scm.com/install/linux
+
+
+===========> Commit Message cheat Sheet : 
+https://eqraatech.com/git-commit-message-cheatsheet/
+
