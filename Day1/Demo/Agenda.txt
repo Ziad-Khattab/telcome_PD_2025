@@ -14,3 +14,47 @@
 -- show commits : git log   =====> [commit id ?? author ?? data ?? commit_message  ]
 -- show commits one line: git log --oneline   =====> [commit id ?? commit_message  ]
 
+---> reset changes (back from staging to working) :  git reset ========> reset all files
+---> reset changes (back from staging to working) :  git reset file1 file2  ========> reset specific files
+
+------------------------- >
+core editor  VS Code:  git config --global core.editor "code --wait"
+
+------------------------>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------
+working area                      staging area                     local_Repo             Remote_Repo
+
+ ----------------> git add .  
+ ----------------> git add file_Name
+ ----------------> git add file1 file2
+  
+                                            ----------> git commit -m "Msg"
+
+                               <----------------------
+                               git reset 
+                               git reset file_Name
+                               git reset  file1 file2
+
+-------- file must be added at least one time  ----------->   git commit -a -m "Msg"                            
+-------- git add file_Name  --------------------------->      git commit -am "Msg"
+------------> add || commit (-a :: add || -m :: msg)
+
+
+--------------------> test for back from commit 
+-------------------------> remove commit changes already saved
+-------------------------> remove commit changes also removed 

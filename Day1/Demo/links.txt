@@ -7,3 +7,5 @@ Linux :  https://git-scm.com/install/linux
 ===========> Commit Message cheat Sheet : 
 https://eqraatech.com/git-commit-message-cheatsheet/
 
+====> handel Vs Code as Core editor : 
+https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Setup-and-Config
