@@ -77,6 +77,9 @@ git add .
 git commit -m "msg"
 git push origin master
 
+==========================>
+gitHub Pages : git hub ==> as server
+
 
 --------------------------------
 working area                      staging area                     local_Repo             Remote_Repo
