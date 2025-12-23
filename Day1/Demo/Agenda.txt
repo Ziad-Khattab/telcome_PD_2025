@@ -17,14 +17,20 @@
 ---> reset changes (back from staging to working) :  git reset ========> reset all files
 ---> reset changes (back from staging to working) :  git reset file1 file2  ========> reset specific files
 
-------------------------- >
+------------------------- > Core Editor
 core editor  VS Code:  git config --global core.editor "code --wait"
 
 ------------------------>
 
+Dealing With Remote [Git Hub]
+---> create Account (gmail)
+ ----- mail , userName , password
+ ====== > login
 
 
-
+=====================> link between GitHub :: Git (pc)  :: Setting -- Emails 
+=========>  userName :  git config --global user.name "John Doe"
+=========>  user Email : git config --global user.email johndoe@example.com
 
 
 
