@@ -53,6 +53,13 @@ git commit -am "MSG"
 
 git push origin master
 
+==========================================> .gitignore
+-- file --> put file names that you want not to be uploaded on git hub
+==========================================> README.md  ===> Mark down language 
+-- file --> information 
+---> run projec
+---> libraries
+--> server 
 
 
 
