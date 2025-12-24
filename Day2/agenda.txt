@@ -165,10 +165,10 @@ git pull origin navbar (conflict (solve))
 git status  (add , commit)
 git push origin  dev
 
-===============================> Pull Requst 
+
+
 merge between branches (remotely) across (github)   =========> (pull from remote between branches) == (merge betwen branches in local)
 
-=========================
 
 tasks every day :
 git swicth your_branch 
