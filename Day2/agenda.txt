@@ -184,3 +184,14 @@ git push remote branch
 ==============================****************************======================
 fork ===>  copy repo ---> 
 clone (copy repo )
+
+====================> organizatio
+==================> stashing
+make changes --->  but you wan't to commit them 
+-----------------------> make stash 
+add stash : git stash 
+list stashes : git stash list
+show stash with out remove list : git stash apply
+show stash with  remove list : git stash pop
+
+
