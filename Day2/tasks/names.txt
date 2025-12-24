@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Ahmed Omar
 fouad yasser
-=======
 1.Ahmed Omar
 2.Seif Ashraf
 3.Ziad Khattab
->>>>>>> e45cf49c136b483483676cf96a2d304310ae332e
