@@ -30,3 +30,14 @@ structre --->  branch --> merge (master)
 ---> feature/feat-navbar   --------> fouad
 ---> bug/fix-login-error
 ---> test/test-login-page
+
+
+
+
+
+
+
+
+----------------------------------------------->
+login  (page) xxxxxxxx || structure (all pages except login) 
+Merge (big ----> small)
