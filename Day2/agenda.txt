@@ -22,8 +22,21 @@ Branches --> organize code  ---> merge
 structre --->  branch --> merge (master)
 -----------------------------------------------------------> Commands
 1- list all branches : git branch
-1- Create new branches : git branch branch_Name
+2- Create new branches : git branch branch_Name
+3- switch branches : git switch branch_Name
+4- create branch + switch branch : git switch -c branchName
+------> switch branch + push
+5- push branch remote repo : git push origin branchName 
 
+--------------------------> checkout (old)   -------------> brachs + files 
+1- git checkout branchName : switch branch 
+2- git checkout -b branchName : create + switch branch 
+3- git checkout index.html ====> back to file (restore)
+ 
+
+
+
+------------------> Naming of branches
 ---> feature/feat-sturcture   --------> ziad
 ---> feature/feat-login   --------> mostafa
 ---> feature/feat-register   --------> mohammed
